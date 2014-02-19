@@ -1,0 +1,6 @@
+cafehanoi project. 
+Current branch:
+- read in data of restaurants (name + address)
+- use javascript to convert to LAT + LON
+- add back to JSON files
+- build SQL database out of these data
